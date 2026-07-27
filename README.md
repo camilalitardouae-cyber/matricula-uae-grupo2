@@ -12,8 +12,7 @@
 ## Claude Design
 ## Git
 # Integrantes - Rol
-## Camila Litardo - Administrador del repositorio
-## Antony Palma - Desarrollador de rama
-## Marco Piguave - Desarrollador de rama
-## Daniela Gonzáles - Diseñador líder de prototipo
+## Camila Litardo - Responsable del repositorio
+## Antony Palma - Responsable del prototipo
+## Daniela Gonzáles - Responsable de la documentación
 
