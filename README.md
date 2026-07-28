@@ -5,8 +5,8 @@
 # Funcionalidades principales
 ## *Iniciar sesión con correo institucional
 ## *Revisar cupos disponibles
+## *Selección de materias
 ## *Registrar pago de matriculas manuales
-## *Confirmación de matricula
 # Herramientas utilizadas
 ## GitHub
 ## Claude Design
